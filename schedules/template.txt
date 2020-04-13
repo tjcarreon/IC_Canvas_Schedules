@@ -1,0 +1,27 @@
+The title of schedule 
+# the title should be on the first line ^
+# lines with (#) will be skipped 
+
+# empty lines will be skipped
+
+# this is the format
+# name or event to display | Time | link's name -> actual URL
+
+# Time should be 
+#	day (Mon Tue Wed Thu Fri Sat Sun), followed by
+# 	hours (hours between 9:00 and 20:00)
+# 		Hours are connected by "-" 
+# Multiple times are separated by ","
+
+O o. | Tue 9:00-11:00, Tue 14:00-20:00, Thu 14:00-15:20, Thu 17:00-20:00, Fri 16:00-19:00 | Join Zoom Chat -> https://washington.zoom.us/s/00000000
+
+B K. | Tue Thu Fri 13:00-19:00 | Join Zoom Chat -> https://washington.zoom.us/j/000 | Some notes here
+
+J S. | Mon 18:00-20:00 | Join Zoom Chat -> https://washington.zoom.us/j/0000000000
+
+M C. | Mon 15:00-18:00, Tue Thu 12:00-16:00 | Join Zoom Chat -> https://washington.zoom.us/j/000000
+
+A J. | Tue 16:00-18:00 | Join Zoom Chat -> https://washington.zoom.us/j/0000000
+
+
+
